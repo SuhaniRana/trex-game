@@ -1,6 +1,6 @@
 var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
-
+//small change
 var cloudsGroup, cloudImage;
 var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obstacle6;
 
